@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn_mnist.epoch-49"
+all_model_checkpoint_paths: "cnn_mnist.epoch-10"
+all_model_checkpoint_paths: "cnn_mnist.epoch-20"
+all_model_checkpoint_paths: "cnn_mnist.epoch-30"
+all_model_checkpoint_paths: "cnn_mnist.epoch-40"
+all_model_checkpoint_paths: "cnn_mnist.epoch-49"
