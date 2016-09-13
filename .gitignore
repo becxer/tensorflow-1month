@@ -4,3 +4,4 @@ Jupyter/images/CIFAR-10/*
 Jupyter/images/MYIMG/*.npz
 !Jupyter/pretrained/README.md
 !Jupyter/images/CIFAR-10/README.md
+*.pyc
