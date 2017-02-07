@@ -33,8 +33,9 @@ Tensorflow tutorials for one-month.
 27. Word2Vector (Word-Embedding)
 28. RNN Hangul Fiction generator
 29. RNN translation English to Korean
-30. RNN Hangul POS tagger
-31. ShowAndTell (CNN+RNN)
+30. Memory Network
+31. DCGAN
+32. DQN
 
 ## Requirements
 - TensorFlow
